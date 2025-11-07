@@ -7,9 +7,9 @@ if (!file_exists(__DIR__ . "/sessions")) {
 
 session_start();
 
-$servername = "localhost";
-$username   = "smartlea_admin";
-$password   = "smartlea_admin";
+$servername = "13.203.154.29";
+$username   = "smartleader";
+$password   = "Smartleader@123";
 $db         = "smartlea_admin";
 
 // Create connection
